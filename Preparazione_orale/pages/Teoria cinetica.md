@@ -1,0 +1,45 @@
+- La teoria cinetica riguarda il comportamento microscopico dei gas in relazione alle caratteristiche termodinamiche macroscopiche.
+- Per andare a parlare di teoria cinetica per prima cosa dobbiamo andare a fare diverse ipotesi:
+	- Il gas che stiamo osservando é un gas ideale (in questo caso monoatomico) costituito da sferette rigide
+	- Gli urti che avvengono solo solamente elastici
+	- Non ci sono forze interne o esterne a meno di forze impulsive dovute agli urti
+	- La particelle hanno delle velocitá elevate e quindi le loro traiettorie sono rettilinee
+	- Il gas ha una distribuzione spaziale uniforme
+	- Le velocitá sono isotrope cioé é ugualmente probabile che abbino una qualsiasi direzione
+- [[draws/2023-07-22-14-09-27.excalidraw]]
+- Andiamo a concentrarci su una sola pallina e in particolare su una sola direzione, ad esempio la direzione $x$:
+- [[draws/2023-07-22-14-12-28.excalidraw]]
+- La pallina fará un urto con la parete e subito dopo l'urto la sua velocitá sará invertita:
+- [[draws/2023-07-22-14-15-22.excalidraw]]
+- Sappiamo che la variazione della quantitá di moto dell'atomo é dovuto ad una forza impulsiva, in particolare la forza impulsiva $F_{pg}$ che la parete esercita sul gas nell'urto. Essendo una forza impulsiva quello che interessa a noi é l'integrale di questa forza che prende in nome di impulso della forza:
+- [[draws/2023-07-22-14-20-20.excalidraw]]
+- Durante l'urto abbiamo che la particella durante l'urto risente della forza $F_{pg}$ e ovviamente, per il terzo principio della dinamica essa esercita sulla parete una forza $F_{gp}$ che é uguale e contraria a quella esercitata dalla parete $F_{gp}=-F_{pg}$.
+- [[draws/2023-07-22-14-26-59.excalidraw]]
+- Il fenomeno macroscopico chiamato pressione sará dovuto dall'azione di una di queste due forze in particolare dalla forza $F_{gp}$ perché rappresenta la forza che il gas esercita sulla scatola. La pressione sará dovuta al fatto che ogni molecola del gas fa tanti urti con le pareti e poi le molecole sono almeno un numero di avogadro.
+- [[draws/2023-07-22-17-27-14.excalidraw]]
+- Dopo avere trovato quanti urti la molecola compie con una parete nell'intervallo di tempo possiamo andare a svolgere l'integrale dell'impulso. Posso supporre che la forza nell'intervallo di tempo considerato sia costante e per semplicitá andiamo a cosiderare solamente la direzione $x$ del moto
+- [[draws/2023-07-22-17-36-00.excalidraw]]
+- Cosí facendo abbiamo ricavato la forza di cui risente la parete a causa di un urto con una particella di gas, dobbiamo cercare di collegare la forza con la pressione.
+- Ricordiamo che la pressione é $P = \frac{F}{S}$ quindi da quello che abbiamo ottenuto per la forza la pressione sará $\frac{F_{gp}}{a^2}$ dato che la nostra parete é quadrata.
+- Noi abbiamo fatto il calcolo una delle particelle ma in generale ce ne sono un numero di avogadro quindi dovró sommare $6,02 \cdot  10^{23}$ termini.
+- Numeriama tutte le particelle ed avemo:
+- [[draws/2023-07-22-17-51-30.excalidraw]]
+- Osserviamo che la pressione del gas é legata alle velocitá al quadrato delle particelle
+- [[draws/2023-07-22-17-55-19.excalidraw]]
+- Ora quello che dobbiamo fare é sostituira la velocitá lungo l'asse x con la velocitá vettoriale
+- [[draws/2023-07-23-01-11-56.excalidraw]]
+- Abbiamo scoperto che facendo una descrizione miscroscopica del gas come un insieme di palline non interagenti tra loro, con velocitá isotrope e posizioni uniformi possiamo legale la quantitá macroscopica pressione alla quantitá microscopica chiamata velocitá quadratica media del gas.
+- $$P =  \frac{\rho \overline{v^2}}{3}$$
+- Adesso che abbiamo la pressione possiamo, utilizzando l'equazioni di stato dei gas, trovare la temperatura:
+- [[draws/2023-07-23-01-21-54.excalidraw]]
+- ### Energia cinetica totale
+- Siamo tutto d'accordo che l'energia cinetica del gas é:
+- $$\frac{1}{2}M \overline{v^2}$$
+- Adesso dell'equazione che abbiamo ottenuto prima vogliamo ricavare la formula dell'energia cinetica:
+- [[draws/2023-07-23-01-29-11.excalidraw]]
+- L'energia cinetica media di una particella sarebbe:
+- $$\frac{1}{2}m \overline{v^2}$$
+- [[draws/2023-07-23-01-34-19.excalidraw]]
+- Per il nostro gas ideale abbiamo detto che non sono presenti forze interne o esterne quindi quella quantitá che abbiamo chiamato energia interna sará, dal punto di vista microscopico, solamente energia cinetica. Quindi potremo scrivere:
+- $$U= \frac{3}{2}NkT$$
+-

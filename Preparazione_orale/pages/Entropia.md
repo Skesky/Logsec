@@ -1,0 +1,8 @@
+- Prendendo il risultato del Teorema di Clausius per una trasformazione reversibile osserviamo che il rapporto tra la variazione infinitesima del calore e la temperatura equivale al differenziale esatto di una funzione che andremo a chiamare $S$.
+- $$\oint_{\Gamma_{rev}} \frac{\delta Q}{T} = 0 \Longleftrightarrow \frac{\delta Q}{T} = dS$$
+- Quindi la funzione $S$ é una funzione di stato che prende il nome di **entropia**. Essendo una funzione di stato la sua variazione, che corrisponde al calore scambiato ad una certa temperatura, é indipendente dalla trasformazione che viene eseguita per andare dallo stato $A$ del sistema allo stato $B$.
+- Per una trasformazione reversibile avremo:
+- $$\int_{\Gamma{{AB}_{rev}}} \frac{\delta Q}{T} = \int_{S_A}^{S_B} dS = \Delta S_{AB}$$
+- cioé che l'integrale di Clausius é pari alla variazione di entropia tra gli stati $A$ e $B$ del sistema.
+- [[draws/2023-07-17-23-55-05.excalidraw]]
+-

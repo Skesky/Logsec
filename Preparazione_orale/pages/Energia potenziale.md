@@ -1,0 +1,6 @@
+- Il lavoro delle forze conservative, come abbiamo detto, non dipende dal percoso che si compie ma solamente dalla posizioni iniziale e la posizione finale quindi potremmo dire che il lavoro é una funzione che dipende dalle coordinate del punto iniziale e finale.
+- Prendendo nello spazio un punti di riferimento che chiameremo O possiamo scrivere il lavoro di una forza da punto O ad un generico punto come:
+- [[draws/2023-07-13-17-42-24.excalidraw]]
+- Quindi per calcolare il lavoro compiuto per andare da una punto A ad un punto B avró:
+- [[draws/2023-07-13-17-48-04.excalidraw]]
+-

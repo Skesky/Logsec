@@ -1,0 +1,5 @@
+- Per dimostrare il teorema del lavoro prendiamo un punto materiale di massa $$m$$ che si muove su di un piano orizzontale in una direzione fissata $$x$$. Su questo punto materiale agiscono delle forze la cui risultante é $$\vec F$$
+- [[draws/2023-07-12-22-49-32.excalidraw]]
+- Voglio calcolare il lavoro della forza $$\vec F$$ tra la posizione $$x_A$$ e $$x_B$$
+- [[draws/2023-07-12-22-54-53.excalidraw]]
+- Da quanto dimostrato abbiamo ottenuto che il lavoro della risultante delle forze tra una posizione $$x_A$$ e una posizione $$x_B$$ é pari alla variazione di energia potenziale tra la posizione finale e la posizione iniziale.

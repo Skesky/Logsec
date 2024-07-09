@@ -1,0 +1,10 @@
+- Sappiamo che se una forza é conservativa il suo lavoro puó essere calcolato come meno la variazione di [[Energia potenziale]]. Abbiamo inoltre dimostrato che il lavoro compiuto dalla risultante delle forze equivale alla variazione di energia cinetica di un corpo.
+- $$W= \Delta K = K_B - K_A $$
+- $$W = - \Delta U = U_A -U_B$$
+- Uguagliando queste due espresioni abbiamo:
+- $$K_B - K_A = U_A -U_B \Rightarrow K_B +U_B  = U_A + K_A $$
+- Andiamo a chiamare energia meccanica la somma tra l'energia potenziale e l'energia cinetica e come possiamo osservare se sul corpo agiscono solamente forze conservative l'energia meccanica si conserva.
+- Chiamiamo quanto appena detto **principio di conservazione dell'energia meccanica**
+- Nel caso un cui sul corpo agisserro anche delle forse non conservative la quantitá di energia meccanica non si conserverebbe peró possiamo mettere il relazione il lavoro delle fornza non conservative con la variazione di energia meccanica.
+- [[draws/2023-07-13-18-10-32.excalidraw]]
+-

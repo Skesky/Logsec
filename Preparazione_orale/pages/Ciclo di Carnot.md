@@ -1,0 +1,10 @@
+- Il ciclo di carnot é rappresentato da 4 trasformazioni revesibili:
+- [[draws/2023-07-12-15-59-14.excalidraw]]
+- Da questo definiamo **l'efficienza** di una macchina termica come il rapporto tra il lavoro fornito e il calore assorbito.
+- Dal momento che abbiamo una trasformazione ciclica sappiamo che $$\Delta U = 0$$ e quindi $$W= Q$$
+- Detto questo possiamo scrivere:
+- $$\eta = \frac{W}{Q_{ass}} = \frac{Q_{ass}+Q_{ced}}{Q_{ass}} = 1 + \frac{Q_{ced}}{Q_{ass}} = 1 - \frac{|Q_{ced}|}{Q_{ass}}  $$
+- Procededo in il calcolo del calore e del lavoro della trasformazioni che compongono il ciclo di carnot avremo:
+- [[draws/2023-07-12-16-16-47.excalidraw]]
+- **Abbiamo ottenuto che nel ciclio di Carnot  il rendimento dipende solamente dalla temperature tra le quali avvengono gli scambi di calore**
+-

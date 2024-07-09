@@ -1,0 +1,4 @@
+- La relazione di Mayer é una relazione che lega in calore specifico a pressione costante $c_p$ di un gas ideale con il calore specifico a volume costante $c_v$
+- Per ottenere questa relazione prendiamo una trasformazione generica reversibile.
+- [[draws/2023-07-20-18-03-58.excalidraw]]
+-

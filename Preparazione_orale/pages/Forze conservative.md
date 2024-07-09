@@ -1,0 +1,4 @@
+- Si intede per forze conservative quelle forze il cui lavoro non dipende dal percorso seguito ma solamente dalla posizione finale e la posizione iniziale, un esempio di forza conservativa per potremo fare é la forza peso che dipende solamente dalla variazione quota del corpo.
+- Come detto per una forza conservativa possiamo calcolare il suo lavori indipendentemente dal percorso compiuto.
+- [[draws/2023-07-13-15-32-48.excalidraw]]
+-

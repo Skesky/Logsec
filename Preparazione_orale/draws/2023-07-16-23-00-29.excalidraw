@@ -1,0 +1,248 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "file://",
+  "elements": [
+    {
+      "id": "x3W0gaXvbXGovr79pGCBI",
+      "type": "freedraw",
+      "x": 168,
+      "y": 270.65625,
+      "width": 10,
+      "height": 7,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "seed": 126609149,
+      "version": 39,
+      "versionNonce": 1234876115,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1689541260326,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -1,
+          0
+        ],
+        [
+          -2,
+          0
+        ],
+        [
+          -4,
+          0
+        ],
+        [
+          -6,
+          1
+        ],
+        [
+          -8,
+          2
+        ],
+        [
+          -8,
+          4
+        ],
+        [
+          -7,
+          5
+        ],
+        [
+          -5,
+          5
+        ],
+        [
+          -2,
+          4
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          -1
+        ],
+        [
+          0,
+          -2
+        ],
+        [
+          -2,
+          -2
+        ],
+        [
+          -4,
+          -1
+        ],
+        [
+          -7,
+          0
+        ],
+        [
+          -7,
+          2
+        ],
+        [
+          -6,
+          2
+        ],
+        [
+          -4,
+          2
+        ],
+        [
+          -2,
+          1
+        ],
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          -1
+        ],
+        [
+          -1,
+          -1
+        ],
+        [
+          -3,
+          -1
+        ],
+        [
+          -4,
+          1
+        ],
+        [
+          -5,
+          2
+        ],
+        [
+          -4,
+          3
+        ],
+        [
+          -2,
+          2
+        ],
+        [
+          0,
+          2
+        ],
+        [
+          1,
+          2
+        ],
+        [
+          0,
+          0
+        ]
+      ],
+      "pressures": [
+        0.000457763671875,
+        0.0049591064453125,
+        0.0073394775390625,
+        0.016143798828125,
+        0.03240966796875,
+        0.045196533203125,
+        0.04913330078125,
+        0.0510406494140625,
+        0.051483154296875,
+        0.0521240234375,
+        0.0520782470703125,
+        0.0518798828125,
+        0.052764892578125,
+        0.0604248046875,
+        0.070892333984375,
+        0.0751800537109375,
+        0.0779876708984375,
+        0.0791015625,
+        0.07958984375,
+        0.0793914794921875,
+        0.079193115234375,
+        0.07794189453125,
+        0.0779876708984375,
+        0.0803070068359375,
+        0.0859527587890625,
+        0.0941314697265625,
+        0.0914306640625,
+        0.070526123046875,
+        0.0174713134765625,
+        0.000518798828125,
+        0,
+        0
+      ],
+      "simulatePressure": false,
+      "lastCommittedPoint": [
+        1,
+        2
+      ]
+    },
+    {
+      "id": "5bPo_UtkoRojdWkiZasG7",
+      "type": "freedraw",
+      "x": 666,
+      "y": 292.65625,
+      "width": 0.0001,
+      "height": 0.0001,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "seed": 1768055923,
+      "version": 3,
+      "versionNonce": 992173587,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1689541261442,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0001,
+          0.0001
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        0.0001,
+        0.0001
+      ]
+    }
+  ],
+  "appState": {
+    "gridSize": null,
+    "viewBackgroundColor": "#FFF"
+  }
+}

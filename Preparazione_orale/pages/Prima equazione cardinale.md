@@ -1,0 +1,11 @@
+- La prima equazione cardinale mette in relazione la variazione della quantitá di moto del sistema con le forze esterne agenti sul sistema.
+- Partendo dal teorema del moto del centro di massa il quale viene espresso dalla relazione
+- $$\vec F^{(E)}=m \vec a_{CM}$$
+- Il teorema del moto del centro di massa puó essere derivato dal fatto che
+- $$\vec a_{CM} = \frac {\sum_i m_i a_i}{m}$$
+- Se il sistema di riferimento é inerziale
+- $$m_i \vec a_i = \vec F_i = \vec F_i^{(E)} + \vec F_i^{(I)} $$
+- Sostituendo quanto appena detto nell'equazione precedente otteniamo:
+- $$m \vec a_{CM} = \sum_i m_i \vec a_i = \sum_i (\vec F_i^{(E)} + \vec F_i^{(I)}) = \vec F^{(E)}$$
+- Quindi da teorema del moto del centro di massa possiamo ottenere la prima equazione cardinale della dinamica:
+- $$\vec F^{(E)} = m \vec a_{CM}= m \frac{d \vec v_{CM}}{dt} = \frac{d}{dt}(m \vec v_{CM})= \frac{d \vec P}{dt}$$

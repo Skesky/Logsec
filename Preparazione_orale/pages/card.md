@@ -1,0 +1,1 @@
+- Per forze conservative si intendono tutte quelle forze il cui lavoro non dipende dal percorso compiuto ma solamente dalla posizione iniziale e finale, un esempio di forza conservativa é la forza peso , la quale dipende solamente dalla differenza di quota tra la posizione iniziale e quella finale.

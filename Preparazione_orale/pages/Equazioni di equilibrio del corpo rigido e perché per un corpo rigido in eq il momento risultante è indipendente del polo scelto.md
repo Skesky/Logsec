@@ -1,0 +1,2 @@
+- **Il momento risultante é indipendente dal polo scelto se e solo se il prodotto vettoriale tra il vettore posizione del secondo polo rispetto al primo e la risultante delle forze é nullo.** Questa situazione si puó verificare quando la risultante delle forze é nulla oppure se la risultante delle forze e il vettore posizione che collega i due poli sono paralleli o antiparalleli.
+-

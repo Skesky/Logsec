@@ -1,0 +1,6 @@
+- Da quanto dimostrato nel teorema di Clausius per un ciclio reversibile, cioé che la somma dei rapporti tra i calori e le temperature alle quali vengono scambiati é pari a zero, possiamo andare a definire la temperatura assoluta. La temperatura assoluta é una misura della temperatura che é indipendente dal metodo con cui viene fatta la misurazione perché scelta una temperatura di riferimento (in genera la temperatura di fusione del ghiaccio) si calcola la temperatura in base al rapporto tra il calori scambiati.
+- Dal teorema di Clausius abbiamo
+- $$\frac{|Q_1|}{Q_2} = \frac{T_1}{T_2} $$
+- Attraverso manipolazioni algebriche posso scrivere:
+- $$T_2=T_1\frac{Q_2}{|Q_1|}  $$
+- Come detto prima andiamo a scegliere la temperatura $T_1$ come la temperatura di fusione del ghiaccio.

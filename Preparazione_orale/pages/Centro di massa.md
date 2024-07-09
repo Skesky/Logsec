@@ -1,0 +1,8 @@
+- Il centro di massa di un sistema di punti materiali é un punto geometrico la cui posizione é individuata dalla media pesata delle posizioni di tutti i punti del sistema e come pesi vengono utilizzate le masse dei singoli punti.
+- $$\vec r_{CM} = \frac{\sum_i m_i \vec r_i}{\sum_i m_i} = \frac {m_1 \vec r_1 + m_1 \vec r_1 + \ldots + m_1 \vec r_1}{m_1 + m_2 + \ldots m_n}$$
+- La posizione del centro di massa e indipendente dal sistema di riferimento che viene scelto ma le suo coordinate ovviamente dipenderanno da quest'ultimo.
+- Si puó dimostrare che data la posizione del centro di massa rispetto ad un sistema di riferimento, se si volesse esprimere rispetto ad una altro sistema di riferimento, quello che otteremo é la somma tra la posizione del centro di massa rispetto al primo sistema di riferimento e la sistanza tra le origini dei due sistemi di riferimento.
+- Per il calcolo delle velocitá del centro di massa possiamo procedere analogamente a quanto abbiamo fatto per un singolo punto materiale:
+- $$\vec v_{CM} = \frac{d \vec r_{CM}}{dt}= \frac{\sum_i m_i \frac{d \vec r_i}{dt}}{\sum_i m_i} = \frac{\sum_i m_i \vec v_i } {\sum_i m_i} = \frac {\vec P}{m} $$
+- e allo stesso modo potremo ricavare l'accelerazione:
+- $$\vec a_{CM} = \frac{d \vec v_{CM}}{dt}= \frac{\sum_i m_i \frac{d \vec v_i}{dt}}{\sum_i m_i} = \frac{\sum_i m_i \vec a_i } {\sum_i m_i} = \frac {\sum_i m_i \vec a_i}{m} $$

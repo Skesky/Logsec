@@ -1,0 +1,11 @@
+- Il secondo principio della termodinamica consiste nel prendere atto del fatto che delle trasformazioni termodinamiche pur rispettando il primo principio non sono possibili, un esempio potrebbe essere quello dello scambio di calore tra due corpi a temperature diverse.
+- [[draws/2023-07-12-12-42-05.excalidraw]]
+- Sarebbe matemeticamente corretto prendere i valori dei calori e delle variazioni di energia interna e cambiarle di segno. Fisicamente questo rappresenterebbe lo scambio di calore da un corpo a temperatura minore verso un corpo a tempetatura superiore senza compiere lavoro. Sappiamo sperimentalmente che questo non é possibile anche se la trasformazione in questione continua a rispettare il primo principio.
+- Del secondo principio andremo a studiare solamente due enunciati:
+- ### Enunciato di Kelvin
+	- Non esiste un ciclo termidinamico che assorbe calore da una sorgente e come unico risultato produce calore
+	- [[draws/2023-07-12-12-59-08.excalidraw]]
+- ### Enunciato di Clausius
+	- Non esiste un ciclo termodinamico che abbia come unico risultato il trasferimento di una quantitá di calore da un corpo ad un altro con una temperature superiore
+	- [[draws/2023-07-12-13-00-35.excalidraw]]
+	-

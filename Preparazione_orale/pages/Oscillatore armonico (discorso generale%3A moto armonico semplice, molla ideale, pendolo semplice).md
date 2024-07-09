@@ -1,0 +1,5 @@
+- ## Moto armonico semplice
+	- Un punto materiale compie un moto armonico semplice quando la sua legge oraria é descritta dalla relazione:
+	- $$x(t) = A \sin (\omega t + \varphi)$$
+	- $A$,$\omega$ e  $\varphi$ sono grandezza costanti e prendono il nome rispettivamante di ampiezza, pulsazione e fase iniziale.
+	-

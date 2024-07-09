@@ -1,0 +1,6 @@
+- Prende il nome di pendolo composto un corpo rigido vincolato a oscillare intorno ad un asse non passante per il suo contro di massa su un piano verticale sotto l'effetto della sua forza peso.
+- [[draws/2023-07-24-11-37-51.excalidraw]]
+- Ovviamente se il centro di massa del corpo rigido si trova sulla verticale il corpo non oscilla mentre se é spostato dalla posizione di equilibrio di un angolo $\theta$ c'e un momento di richiamo che riporta il corpo nella posizione di equilibrio.
+- Essendo tutti i momenti paralleli all'asse di rotazione possiamo prioettare la seconda equazione cardinale lungo l'asse di rotazione prendendo come polo un punto sull'asse.
+- [[draws/2023-07-24-16-40-53.excalidraw]]
+-
